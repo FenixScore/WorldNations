@@ -3,4 +3,5 @@ WorldNations
 
 Ресурспак сервера WorldNations
 
-### Разработчик: FenixScore(winmol) и другие 
+### WORLDNATIONS 2023 WINMOL STUDIOS
+
